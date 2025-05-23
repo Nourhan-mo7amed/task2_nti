@@ -1,6 +1,8 @@
 
-## Demo For App
-[Demo for App](https://github.com/Nourhan-mo7amed/task2_nti/blob/main/yummy_app/video5873191262714076825.mp4)
+<video width="600" controls>
+  <source src="https://github.com/Nourhan-mo7amed/task2_nti/blob/main/yummy_app/video5873191262714076825.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # yummy_app
 
